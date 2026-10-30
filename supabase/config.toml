@@ -1,0 +1,8 @@
+[functions.unt-intake]
+verify_jwt = false
+
+[functions.unt-faculty-supervised]
+verify_jwt = false
+
+[functions.unt-ai-formulacion]
+verify_jwt = false
